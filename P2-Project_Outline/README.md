@@ -7,12 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+An application that helps users save money to reach goals, whether it is to buy a house, build savings, or buy a new keyboard. It will also let users see how many goals have already been completed, both by themselves, and other users. if the user doesnt want their goal to be public they can choose to keep it private. Users can label and rank their goals based on importance and purposes.
 ### Features
-Include Features here
+User login. CRUD operations for goals and labels. View and search total completed goals by all users.
 ### Technologies
-Include Technologies here
+Java, Thymeleaf, Springboot, Hibernate, and MySql.
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll need to learn how to design an organized structure for my project, and how to visually show completed goal percentage.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/LbAxIvUX/liftoff-project
