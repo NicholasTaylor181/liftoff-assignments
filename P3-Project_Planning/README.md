@@ -8,12 +8,15 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* ![New Goal Wireframe](https://github.com/NicholasTaylor181/liftoff-assignments/blob/master/P3-Project_Planning/wireframe%201.pdf)
+* ![New Label Wireframe](https://github.com/NicholasTaylor181/liftoff-assignments/blob/master/P3-Project_Planning/wireframe%202.pdf)
+* ![User Registration Wireframe](https://github.com/NicholasTaylor181/liftoff-assignments/blob/master/P3-Project_Planning/wireframe%203.pdf)
+* ![Goal View Wireframe](https://github.com/NicholasTaylor181/liftoff-assignments/blob/master/P3-Project_Planning/wireframe%204.pdf)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/LbAxIvUX/liftoff-project
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/NicholasTaylor181/liftoff-assignments
