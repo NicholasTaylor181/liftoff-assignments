@@ -19,4 +19,6 @@ https://trello.com/b/LbAxIvUX/liftoff-project
 
 ### Project Repo Link
 
-https://github.com/NicholasTaylor181/liftoff-assignments
+https://github.com/NicholasTaylor181/goal-savings-app
+
+
